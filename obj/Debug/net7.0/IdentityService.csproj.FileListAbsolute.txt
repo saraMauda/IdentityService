@@ -1,0 +1,360 @@
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\appsettings.Development.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\appsettings.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\IdentityService.exe
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\IdentityService.deps.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\IdentityService.runtimeconfig.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\IdentityService.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\IdentityService.pdb
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Azure.Core.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Azure.Identity.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Humanizer.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\MassTransit.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\MassTransit.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\MassTransit.RabbitMqTransport.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Data.SqlClient.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.EntityFrameworkCore.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.Options.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Extensions.Primitives.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Identity.Client.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.IdentityModel.Logging.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.SqlServer.Server.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Microsoft.Win32.SystemEvents.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\Mono.TextTemplating.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\RabbitMQ.Client.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.CodeDom.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Configuration.ConfigurationManager.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Drawing.Common.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.IO.Pipelines.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Memory.Data.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Runtime.Caching.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Security.Permissions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Text.Encodings.Web.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Text.Json.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Threading.Channels.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Threading.RateLimiting.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\System.Windows.Extensions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\out-temp\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\appsettings.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\out-temp\appsettings.Development.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\out-temp\appsettings.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\out-temp\IdentityService.deps.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\out-temp\IdentityService.runtimeconfig.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\IdentityService.exe
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\IdentityService.deps.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\IdentityService.runtimeconfig.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\IdentityService.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\IdentityService.pdb
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\MassTransit.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Threading.Channels.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Threading.RateLimiting.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.csproj.AssemblyReference.cache
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.AssemblyInfoInputs.cache
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.AssemblyInfo.cs
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.csproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.IdentityService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.build.IdentityService.props
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IdentityService.props
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IdentityService.props
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\scopedcss\bundle\IdentityService.styles.css
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.csproj.CopyComplete
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\refint\IdentityService.dll
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.pdb
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.genruntimeconfig.cache
+C:\Users\mac\Desktop\loginService\Backend\IdentityService\obj\Debug\net7.0\ref\IdentityService.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\appsettings.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\out-temp\appsettings.Development.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\out-temp\appsettings.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\out-temp\IdentityService.deps.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\out-temp\IdentityService.runtimeconfig.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\IdentityService.exe
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\IdentityService.deps.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\IdentityService.runtimeconfig.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\IdentityService.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\IdentityService.pdb
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Azure.Core.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Azure.Identity.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Humanizer.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\MassTransit.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\MassTransit.Abstractions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Text.Json.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Threading.Channels.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Threading.RateLimiting.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.csproj.AssemblyReference.cache
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.AssemblyInfoInputs.cache
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.AssemblyInfo.cs
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.IdentityService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.build.IdentityService.props
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IdentityService.props
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IdentityService.props
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\scopedcss\bundle\IdentityService.styles.css
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.csproj.CopyComplete
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\refint\IdentityService.dll
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.pdb
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.genruntimeconfig.cache
+D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\ref\IdentityService.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\appsettings.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\out-temp\appsettings.Development.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\out-temp\appsettings.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\out-temp\IdentityService.deps.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\out-temp\IdentityService.runtimeconfig.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\IdentityService.exe
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\IdentityService.deps.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\IdentityService.runtimeconfig.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\IdentityService.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\IdentityService.pdb
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Azure.Core.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Azure.Identity.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Humanizer.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\MassTransit.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\MassTransit.Abstractions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Text.Json.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Threading.Channels.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Threading.RateLimiting.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.csproj.AssemblyReference.cache
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.AssemblyInfoInputs.cache
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.AssemblyInfo.cs
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.IdentityService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.build.IdentityService.props
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IdentityService.props
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IdentityService.props
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\scopedcss\bundle\IdentityService.styles.css
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.csproj.CopyComplete
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.dll
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\refint\IdentityService.dll
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.pdb
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.genruntimeconfig.cache
+D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\ref\IdentityService.dll
