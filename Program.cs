@@ -4,8 +4,10 @@ using IdentityService.Security;
 using MassTransit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.JsonWebTokens;
 using Microsoft.IdentityModel.Tokens;
+using System.Reflection;
 using System.Security.Claims;
 using System.Text;
 
@@ -23,6 +25,7 @@ var devClientOrigins = new[]
     "http://127.0.0.1:5174",
     "https://127.0.0.1:5174",
 };
+var busServiceName = builder.Configuration["ServiceSettings:ServiceName"] ?? "Identity";
 
 // Add services to the container.
 builder.Services.AddDbContext<IdentityContext>(options =>
@@ -50,18 +53,32 @@ builder.Services
     .Bind(builder.Configuration.GetSection(RabbitMqOptions.SectionName))
     .ValidateDataAnnotations();
 
-builder.Services.AddMassTransit(x =>
+builder.Services.AddMassTransit(configure =>
 {
-    x.UsingRabbitMq((context, cfg) =>
+    configure.AddConsumers(Assembly.GetEntryAssembly());
+
+    configure.UsingRabbitMq((context, cfg) =>
     {
-        var rmq = context.GetRequiredService<Microsoft.Extensions.Options.IOptions<RabbitMqOptions>>().Value;
-        cfg.Host(new Uri($"rabbitmq://{rmq.Host}:{rmq.Port}{rmq.VirtualHost}"), h =>
+        var rmq = context.GetRequiredService<IOptions<RabbitMqOptions>>().Value;
+        var ub = new UriBuilder("rabbitmq", rmq.Host, rmq.Port);
+        if (!string.IsNullOrWhiteSpace(rmq.VirtualHost) && rmq.VirtualHost != "/")
+            ub.Path = rmq.VirtualHost.StartsWith('/') ? rmq.VirtualHost : "/" + rmq.VirtualHost;
+        else
+            ub.Path = "/";
+
+        cfg.Host(ub.Uri, h =>
         {
             if (!string.IsNullOrWhiteSpace(rmq.Username))
                 h.Username(rmq.Username);
             if (!string.IsNullOrWhiteSpace(rmq.Password))
                 h.Password(rmq.Password);
         });
+
+        cfg.ConfigureEndpoints(
+            context,
+            new KebabCaseEndpointNameFormatter(busServiceName, false));
+
+        cfg.UseMessageRetry(r => r.Interval(3, TimeSpan.FromSeconds(5)));
     });
 });
 

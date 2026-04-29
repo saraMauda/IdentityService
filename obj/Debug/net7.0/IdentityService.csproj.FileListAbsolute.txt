@@ -262,12 +262,12 @@ D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\De
 D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.pdb
 D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\IdentityService.genruntimeconfig.cache
 D:\Users\User\Downloads\loginService\loginService\Backend\IdentityService\obj\Debug\net7.0\ref\IdentityService.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\appsettings.Development.json
 D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\appsettings.json
 D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\out-temp\appsettings.Development.json
 D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\out-temp\appsettings.json
 D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\out-temp\IdentityService.deps.json
 D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\out-temp\IdentityService.runtimeconfig.json
-D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\appsettings.Development.json
 D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\IdentityService.exe
 D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\IdentityService.deps.json
 D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\IdentityService.runtimeconfig.json
@@ -358,3 +358,7 @@ D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\refint\I
 D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.pdb
 D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\IdentityService.genruntimeconfig.cache
 D:\Users\User\Documents\getWay project\IdentityService\obj\Debug\net7.0\ref\IdentityService.dll
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\_exchanges_before.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\_exchanges_after.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\_overview_after.json
+D:\Users\User\Documents\getWay project\IdentityService\bin\Debug\net7.0\_queues_after.json
